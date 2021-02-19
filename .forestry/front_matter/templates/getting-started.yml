@@ -31,3 +31,4 @@ fields:
   label: image
 pages:
 - content/post/getting-started.md
+- content/post/setting-up-vscode-for-flutter-developement-like-a-pro.md
