@@ -14,3 +14,5 @@ title = "Setting Up VScode for Flutter Developement like a pro."
 ### Setting up organization 
 
     "dart.flutterCreateOrganization": "com.webvoke",
+    
+### Adding Flutter Version Manager
