@@ -11,8 +11,15 @@ tags = ["flutter", "vscode"]
 title = "Setting Up VScode for Flutter Developement like a pro."
 
 +++
-### Setting up organization 
+### Setting up organization
 
     "dart.flutterCreateOrganization": "com.webvoke",
-    
+
 ### Adding Flutter Version Manager
+
+## Optional
+
+### Moving Debug bar to debug view
+
+    "debug.toolBarLocation": "docked",
+
