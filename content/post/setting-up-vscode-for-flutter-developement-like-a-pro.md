@@ -19,7 +19,6 @@ title = "Setting Up VScode for Flutter Developement like a pro."
 
 ## Optional
 
-### Moving Debug bar to debug view
+### Moving Debug Toolbar to debug view
 
     "debug.toolBarLocation": "docked",
-
